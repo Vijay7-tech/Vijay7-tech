@@ -64,10 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vijay7-tech/Vijay7-tech/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 <p align="left">Full Stack Developer</p>
 
 ###
