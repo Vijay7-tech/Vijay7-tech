@@ -54,7 +54,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.gmail.com/vijaym611990@gmail.com" target="_blank">
+  <a href="vijaym611990@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="http://www.facebook.com/Vijay" target="_blank">
